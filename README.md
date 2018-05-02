@@ -1,7 +1,7 @@
 # jpsi-ml-classifier
 Machine-learning-based system mimicking the student's decision in Particle Analysis lab activity.
 
-This repository is a work in progress. Please come back for more changes over time.
+**This repository is a work in progress. Please come back for more changes over time.**
 
 ## Installation
 Python 3 and a handful of packages are required.

@@ -46,3 +46,9 @@ We do not recommend installing Python 3 using official installer from python.org
 3. Clone this repository with Git, or download the whole repository as a zip file from this page. 
 
 If you are running Windows 10, you may enable Windows Subsystem for Linux (WSL), which enables your Windows PC to install your preferred Linux distro as a subsystem, complete with integration to your files on Windows. Once you have completed the installation, you may follow the same installation instructions [on Linux](#on-linux). For more information, go to docs.microsoft.com/en-us/windows/wsl/install-win10.
+
+## Usage
+1. **Download the dataset from CERN OpenData portal** The dataset has 20 parts, each containing 100 collision events. On linux, we have prepared bash script for this.
+2. **Download the accompanying spreadsheet [here](http://opendata.cern.ch/record/301/files/dimuon-Jpsi.csv)** This spreadsheet contains information on muon energy and momentum.
+3. **Run prepareAllText.py**
+
